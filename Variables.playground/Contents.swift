@@ -1,12 +1,10 @@
-var favoriteCharacter = "Jon Snow"
-print(favoriteCharacter)
+var favoriteCharacters = ["Jon Snow", "Tyrion Lannister"]
 
-favoriteCharacter = "Tyrion Lannister"
-print(favoriteCharacter)
+favoriteCharacters += ["Daenerys Stormborn of the House Targaryen, First of Her Name, the Unburt, Queen of the Andals and the First Men, Khaleesi of the Great Grass Sea, Breaker of Chains, and Mother of Dragons."]
+print(favoriteCharacters)
 
-favoriteCharacter = 76
-
-let ultimateFavoriteCharacter = "Arya Stark"
+let ultimateFavoriteCharacter = "Jon Snow"
 print(ultimateFavoriteCharacter)
 
-ultimateFavoriteCharacter = "Daenerys Targaryen"
+var starkAreTrueKingsOfTheNorth = true
+
